@@ -12,8 +12,6 @@
   }
 }(this, function ($) {
 
-  console.log($);
-
   /**
    * Default Error handler
    * @type {Object}
