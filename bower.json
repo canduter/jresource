@@ -1,0 +1,30 @@
+{
+  "name": "jresource",
+  "version": "0.0.1",
+  "homepage": "https://github.com/canduter/jresource",
+  "authors": [
+    "Jaime <jaime.ram@gmail.com>"
+  ],
+  "description": "Simple javascript module for AJAX access to server resources",
+  "main": "jresource.js",
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "keywords": [
+    "javascript",
+    "ajax",
+    "jquery"
+  ],
+  "dependencies": {
+    "jquery": ">=1.7.0",
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
